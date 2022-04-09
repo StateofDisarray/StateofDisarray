@@ -7,4 +7,5 @@ If you want to read more about it: https://de.wikipedia.org/wiki/Forschungsreakt
 
 
 [![My Stats](https://github-readme-stats.vercel.app/api/?username=StateofDisarray&count_private=true&theme=tokyonight&showicons=true)]()
-[![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=StateofDisarray&langs_count=2&theme=tokyonight)]()
+
+[![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=StateofDisarray&theme=tokyonight)]()
