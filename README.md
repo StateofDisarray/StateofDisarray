@@ -8,4 +8,4 @@ If you want to read more about it: https://de.wikipedia.org/wiki/Forschungsreakt
 
 [![My Stats](https://github-readme-stats.vercel.app/api/?username=StateofDisarray&count_private=true&theme=tokyonight&showicons=true&include_all_commits=true)]()
 
-[![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=StateofDisarray)]()
+[![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=StateofDisarray&theme=shades-of-purple)]()
