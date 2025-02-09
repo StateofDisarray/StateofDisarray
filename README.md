@@ -1,4 +1,4 @@
-CS Student @ Technical University of Munich.
+Computer Science @ Technical University of Munich.
 
 - 👋 Hey!
 
